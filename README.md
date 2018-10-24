@@ -10,4 +10,4 @@ All implementations are made using Keras. This example was inspired by the book 
 
 Comments and Suggestions are welcome :)
 
-Author: Swarup Padhy (3rd October, 2018)
+Author: Swarup Padhy(3rd October, 2018)
