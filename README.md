@@ -1,4 +1,4 @@
-# Cats-vs-Dogs-Dataset
+# Cats vs Dogs-Dataset
 
 The Original Cats vs Dogs Dataset consists of 25,000 training images. I've selected only 2,000 images for training set, 1,000 images for validation set and further 1,000 images for test set. Given a random image, we have to identify it as a cat or a dog. This shortened dataset in stored on Google Drive and each file contains code on how to access the dataset on Drive.
 
