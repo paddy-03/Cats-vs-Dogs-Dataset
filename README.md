@@ -8,6 +8,3 @@ Thus, the various techniques of applying Convolution Neural Networks in Image Cl
 
 All implementations are made using Keras. This example was inspired by the book Deep Learning with Python written by Keras author Francois Chollet.
 
-Comments and Suggestions are welcome :)
-
-Author: Swarup Padhy(3rd October, 2018)
